@@ -1,0 +1,7 @@
+builds:
+  - binary: img-hacker
+    goos:
+      - windows
+      - linux
+    goarch:
+      - amd64
